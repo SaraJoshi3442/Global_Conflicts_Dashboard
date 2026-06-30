@@ -26,6 +26,3 @@ An interactive Excel dashboard that analyzes global conflict data, providing ins
 - Business Intelligence Reporting
 
 
-## 👩‍💻 Author
-**Sara Joshi**  
-B.Tech CSE (AI & Data Science)
